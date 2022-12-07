@@ -1,0 +1,65 @@
+.container{
+    
+    padding: 2%;
+    border: 2px solid black;
+    margin-top: 2%;
+    border-radius: 5px;
+    background-color: rgb(63, 61, 65);
+}
+/*body{
+    background-color: aqua;
+}*/
+
+.numeros{
+    padding: 2%;
+    padding-left: 20%;
+    margin-left: 15px;
+    border: 2px black solid;
+    border-radius: 5px;
+      
+}
+
+.itens{
+    margin-left: inherit;
+    padding: 15px;
+    
+}
+
+.style{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(53, 56, 59);
+}
+.selectbox{
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-top: 15px;
+    
+}
+.selectbox:hover{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(23, 110, 110);
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 255, 255);
+}
+
+.sinal{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+h2{
+
+    margin: 2%;
+    min-width: 150px ;
+}
+
+input{
+    font-size: 15px;
+    color: black;
+    font-weight: bolder;
+}
